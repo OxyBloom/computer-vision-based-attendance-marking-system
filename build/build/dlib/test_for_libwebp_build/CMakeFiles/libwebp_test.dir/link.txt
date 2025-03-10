@@ -1,0 +1,1 @@
+/usr/bin/c++ -L/home/david/.mujoco/usr/lib64 CMakeFiles/libwebp_test.dir/libwebp_test.cpp.o -o libwebp_test 

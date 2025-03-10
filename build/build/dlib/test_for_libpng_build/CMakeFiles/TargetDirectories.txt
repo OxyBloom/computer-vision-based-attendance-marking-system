@@ -1,0 +1,3 @@
+/home/david/AttendanceSystem/build/build/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir
+/home/david/AttendanceSystem/build/build/dlib/test_for_libpng_build/CMakeFiles/edit_cache.dir
+/home/david/AttendanceSystem/build/build/dlib/test_for_libpng_build/CMakeFiles/rebuild_cache.dir
