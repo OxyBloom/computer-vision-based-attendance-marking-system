@@ -3,12 +3,15 @@ A C++ based attendance making system that uses basic GUI and computer vision
 
 # System Setup
 OS: Ubuntu 22.04
-Feel free to make a windows compactible version if I haven't by the time you find this repository
+(Feel free to make a windows compactible version if I haven't by the time you find this repository)
 
 # Dependencies
 DLIB - For Face detection
+OPENCV
+QT
+
+## Note:
 Preferably clone this to a seperate repository and follow the build instructions
-# Note:
 You will have to modify the CmakeLists.txt file of the project to include the directory of the dlib library
 ```
 git clone https://github.com/davisking/dlib.git
