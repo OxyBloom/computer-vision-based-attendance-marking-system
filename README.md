@@ -26,3 +26,21 @@ sudo apt-get install libopencv-dev
 sudo apt-get install libdlib-dev
 sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
 ```
+# Usage
+### To use
+Inside the project directory do
+```
+cd build
+./attendance_system
+```
+### You might need to do this if it doesn't work
+Inside the project directory do
+```
+rm -rf build
+mkdir build
+cd build
+cmake ..
+cmake --build . --config Release
+```
+
+You are always Welcome to contribute or reach out incase you face issues
