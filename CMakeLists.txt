@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 project(AttendanceSystem)
 
 add_subdirectory(../../dlib build) # <--- Change me accordingly!!!
-# add_subdirectory(/home/david/dlib/build)
+# add_subdirectory(/path/to/dlib/build)
 
 set(CMAKE_CXX_STANDARD 17)
 
