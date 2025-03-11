@@ -5,7 +5,7 @@ A C++ based attendance making system that uses basic GUI and computer vision
 OS: Ubuntu 22.04
 Feel free to make a windows compactible version if I haven't by the time you find this repository
 
-##Dependencies
+###Dependencies
 DLIB - For Face detection
 Preferably clone this to a seperate repository and follow the build instructions
 ##Note:
